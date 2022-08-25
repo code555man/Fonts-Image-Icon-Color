@@ -1,4 +1,4 @@
-### Imgage
+### Images
 
 | Web | Link |
 | ------ | ------ |
