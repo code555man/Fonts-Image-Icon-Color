@@ -26,5 +26,6 @@
 | Gitmoji | [https://gitmoji.dev/] |
 
 ### App Design
-
-| https://flutterflow.io/ |
+| Name | Link |
+| ------ | ------ |
+| Flutterflow | [https://flutterflow.io/] |
