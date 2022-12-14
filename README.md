@@ -16,6 +16,7 @@
 | Pinterest | [https://www.123freevectors.com/] |
 | 123FreeVectors | [https://www.pinterest.com] |
 | Frame-dev | [https://frame-dev.com/] |
+| Icon Scout | [https://iconscout.com/] |
 
 ### Emoji
 
